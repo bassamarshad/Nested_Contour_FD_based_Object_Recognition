@@ -2,7 +2,7 @@
 Nested Contours and Shape Descriptors based Object Detection and Recognition
 
 #Results
-![alt-text-1](/Nested_FD_Test_3/Nested_FD1/FinalOutModels/stop14_Analysis.jpg "stop14") ![alt-text-2](/Nested_FD_Test_3/Nested_FD1/FinalOutModels/stop14_Labeled.jpg "stop14")
+![alt-text-1](/Nested_FD_Test_3/Nested_FD1/FinalOutModels/stop14_Analysis.jpg "stop14") | ![alt-text-2](/Nested_FD_Test_3/Nested_FD1/FinalOutModels/stop14_Labeled.jpg "stop14")
 
 
 #Visit the github project page for implementation details 
