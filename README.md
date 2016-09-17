@@ -8,6 +8,17 @@ Nested Contours and Shape Descriptors based Object Detection and Recognition
 --------------------------------------------------- | ------------------------------------------------------------ |
 
 
+<table style="width:100%">
+  <tr>
+    <th style="width:100%">Labeled Components </th>
+    <th style="width:100%">Predicted Object Model </th> 
+
+  </tr>
+
+</table>
+
+
+
 <section>
     <img width="400" src="/Nested_FD_Test_3/Nested_FD1/FinalOutModels/stop1_Labeled.jpg">
     <img width="400" src="/Nested_FD_Test_3/Nested_FD1/FinalOutModels/stop1_Analysis.jpg">
