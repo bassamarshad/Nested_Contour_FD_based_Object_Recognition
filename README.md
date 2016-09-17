@@ -5,7 +5,7 @@ Nested Contours and Shape Descriptors based Object Detection and Recognition
 
     
  Labeled Components                                 | Predicted Object Model                                       | 
-
+--- | --- | ---
 
 
 <section>
