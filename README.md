@@ -6,7 +6,7 @@ Nested Contours and Shape Descriptors based Object Detection and Recognition
     
 
 
-<table cellspacing="200">
+<table cellspacing="100" cellpadding="100">
  <tr>
  <th>Labeled Components </th>
  <th>Predicted Object Model</th>
