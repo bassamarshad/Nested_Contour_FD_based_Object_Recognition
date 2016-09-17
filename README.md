@@ -4,8 +4,11 @@ Nested Contours and Shape Descriptors based Object Detection and Recognition
 #Results
 
 <section>
-    <h1>Labeled Components</h1>
-    <h1>Predicted Object Model</h1>
+    
+    
+    <h1 style="text-align:left;float:left;">Labeled Components</h1> 
+<h1 style="text-align:right;float:right;">Predicted Object Model</h1> 
+<hr style="clear:both;"/>
     
 </section>
 
