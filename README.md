@@ -4,18 +4,10 @@ Nested Contours and Shape Descriptors based Object Detection and Recognition
 #Results
 
     
-| Labeled Components     &nbsp                            | Predicted Object Model                                       | 
+| **** Labeled Components ****                           | Predicted Object Model                                       | 
 --------------------------------------------------- | ------------------------------------------------------------ |
 
 
-<table>
-  <tr>
-    <th style="width:100%">Labeled Components </th>
-    <th style="width:100%">Predicted Object Model </th> 
-
-  </tr>
-
-</table>
 
 
 
